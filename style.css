@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Bebas+Neue:regular);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+body{
+    padding: 10%;
+}
+h1{
+    font-size: 64px;
+    font-family: bebas neue, sans-serif;
+    font-weight: 400;
+}
+a{
+    text-decoration: none;
+}
+li{
+    font-family: montserrat;
+    color: black;
+    margin-bottom: 42px;
+    list-style-type: none;
+    margin-left: -25px;
+    
+
+}
+.box{
+    border-style: solid;
+    padding: 8px;
+    margin: auto;
+    color: black;
+}
